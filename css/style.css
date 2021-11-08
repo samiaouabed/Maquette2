@@ -1,0 +1,28 @@
+header{
+    background-image: url("../img/img1.png");
+    background-size: cover;
+    height: 100vh; 
+}
+
+h1{
+    color: white;
+}
+
+#bouton{
+    color: white;
+    border: 1px solid white;
+    height: 60px;
+    width: 240px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(215, 215, 240);
+    display: flex;
+    align-items: flex-end;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    
+}
